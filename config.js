@@ -17,5 +17,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu em nhiều lắm :3 ',
     messDesc: 'Tối nay 7h mình gặp nhau nha ❤️.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com'anime.waifu //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://m.me/waifu.anime //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
